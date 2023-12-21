@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import styles from './Navbar.module.css';
+import { useState } from 'react';
+import styles from './navbar.module.css';
 
 import { getImageURL } from "../../utils";
 
