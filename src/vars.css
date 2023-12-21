@@ -1,0 +1,19 @@
+:root {
+  /* Colours */
+  --clr-dk-text: #3a3a3a;
+  --clr-lt-text: #ffffff;
+
+  --clr-dk-primary: #576cbc;
+  --clr-lt-primary: #fff;
+
+  --clr-dk-secondary: #19376d;
+  --clr-lt-secondary: #fff;
+
+  --clr-dark: #0b2447;
+
+  --clr-dk-bg: #04152d;
+  --clr-lt-bg: #04152d;
+
+  /* Fonts */
+  --ft-robot: 'Roboto';
+}
