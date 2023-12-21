@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import styles from './hero.module.css';
 import { getImageURL } from "../../utils";
 
