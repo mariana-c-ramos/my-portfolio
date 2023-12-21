@@ -1,4 +1,5 @@
 @import './vars.css';
+@import './components/Navbar/navbar.module.css';
 
 .App {
   background-color: var(--clr-dk-bg);
