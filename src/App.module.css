@@ -1,6 +1,8 @@
 @import './vars.css';
 @import './components/Navbar/navbar.module.css';
 @import './components/Hero/hero.module.css';
+@import './components/About/about.module.css';
+@import './components/Projects/projects.module.css';
 
 .App {
   background-color: var(--clr-dk-bg);
