@@ -1,9 +1,10 @@
-import styles from './App.module.css';
-import { Navbar } from './components/Navbar/Navbar';
-import { Hero } from './components/Hero/Hero';
-import { About } from './components/About/About';
-import { Projects } from './components/Projects/Projects';
+import styles from "./App.module.css";
+import { About } from "./components/About/About";
 import { Contact } from "./components/Contacts/Contact";
+import { Experience } from "./components/Experience/Experience";
+import { Hero } from "./components/Hero/Hero";
+import { Navbar } from "./components/Navbar/Navbar";
+import { Projects } from "./components/Projects/Projects";
 
 
 function App() {
@@ -11,9 +12,10 @@ function App() {
   return (
     <>
     <div className={styles.App}>
-      <Navbar />
+    <Navbar />
       <Hero />
       <About />
+      <Experience />
       <Projects />
       <Contact />
     </div>
