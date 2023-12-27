@@ -28,10 +28,6 @@
   align-items: center;
 }
 
-.aboutImg {
-  width: 35%;
-}
-
 .aboutItems {
   color: var(--clr-dk-text);
   display: flex;
@@ -78,9 +74,6 @@
   }
   .content {
     flex-direction: column;
-  }
-  .aboutImg {
-    min-width: 180px;
   }
   .aboutItem {
     flex-direction: column;
