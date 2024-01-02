@@ -22,7 +22,9 @@
 .title {
   font-size: 4.5em;
   font-weight: 900;
+  line-height: 1.2;
   font-family: var(--ft-title);
+  margin-bottom: 2rem;
 }
 
 .description {
@@ -42,15 +44,18 @@
 }
 
 .contactBtn {
-  font-size: 1em;
+  font-size: 1.25em;
   font-weight: 600;
-  font-family: 'Outfit';
   text-decoration: none;
   background-color: var(--clr-dk-primary);
-  color: var(--clr-dk-text);
+  color: var(--clr-lt-text);
   padding: 16px 28px;
   border-radius: 8px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+}
+
+.contactBtn:hover{
+  background-color: var(--clr-lt-primary);
 }
 
 .heroImg {

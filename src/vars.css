@@ -1,10 +1,10 @@
 :root {
   /* Colours */
   --clr-dk-text: #ffffff;
-  --clr-lt-text: #3a3a3a;
+  --clr-lt-text: #0f0f0f;
 
   --clr-dk-primary: #e6951c;
-  --clr-lt-primary: #fff;
+  --clr-lt-primary: #f8c06b;
 
   --clr-dk-secondary: #032229;
   --clr-lt-secondary: #fff;
