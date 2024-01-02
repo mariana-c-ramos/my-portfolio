@@ -3,17 +3,18 @@
   --clr-dk-text: #ffffff;
   --clr-lt-text: #3a3a3a;
 
-  --clr-dk-primary: #6a7eca;
+  --clr-dk-primary: #e6951c;
   --clr-lt-primary: #fff;
 
-  --clr-dk-secondary: #19376d;
+  --clr-dk-secondary: #032229;
   --clr-lt-secondary: #fff;
 
-  --clr-dark: #0b2447;
+  --clr-dark: #010e11;
 
-  --clr-dk-bg: #04152d;
+  --clr-dk-bg: #010e11;
   --clr-lt-bg: #04152d;
 
   /* Fonts */
-  --ft-robot: 'Roboto';
+  --ft-title: 'Bungee', sans-serif;
+  --ft-text: 'Open Sans', sans-serif;
 }

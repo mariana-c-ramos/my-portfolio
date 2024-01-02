@@ -4,10 +4,12 @@
   display: flex;
   flex-direction: column;
   border-radius: 10px;
-  background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
+  background: linear-gradient(180deg, #032229 0%, #0d343d 100%);
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   max-width: 345px;
+  font-family: var(--ft-text);
+
 }
 
 .image {
@@ -30,6 +32,7 @@
   margin-top: 14px;
   display: flex;
   flex-direction: row;
+  justify-content: center;
   flex-wrap: wrap;
   gap: 6px;
   list-style: none;

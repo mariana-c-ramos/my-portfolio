@@ -1,22 +1,30 @@
 [
   {
-    "title": "miana Protfolio",
-    "imageSrc": "projects/project.png",
+    "title": "My Portfolio",
+    "imageSrc": "projects/portfolio.png",
     "description": "My own online portfolio, made with React JS, to showcase my projects.",
-    "skills": ["React", "JavaScript", "CSS", "HTML"],
+    "skills": ["React", "JavaScript", "JSX", "CSS", "HTML"],
     "demo": "https://mary-programms.com",
     "source": "https://github.com/mariana-c-ramos/my-portfolio"
   },
   {
     "title": "CheckIt",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/soon.png",
     "description": "A simple todo list to test and learn advance JavaScript concepts.",
     "skills": ["JavaScript", "PHP", "MySQL", "HTML"],
     "source": "https://github.com/mariana-c-ramos/checkit-app"
   },
   {
+    "title": "Outter Sapce",
+    "imageSrc": "projects/soon.png",
+    "description": "A gamified solution to learn about the solar system.",
+    "skills": ["JavaScript", "CSS", "HTML"],
+    "demo": "https://mariana-c-ramos.github.io/pokedex/",
+    "source": "https://github.com/mariana-c-ramos/pokedex"
+  },
+  {
     "title": "Pokedex",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/pokedex.png",
     "description": "A nostalgic project, done with the integration of an external API.",
     "skills": ["JavaScript", "API", "CSS", "HTML"],
     "demo": "https://mariana-c-ramos.github.io/pokedex/",

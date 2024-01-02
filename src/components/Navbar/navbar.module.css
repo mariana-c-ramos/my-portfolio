@@ -15,6 +15,7 @@
   font-weight: 600;
   text-decoration: none;
   color: var(--clr-dk-text);
+  font-family: var(--ft-text);
 }
 
 .menu {
